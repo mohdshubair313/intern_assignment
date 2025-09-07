@@ -1,0 +1,18 @@
+[project]
+name = "intern-assignment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "celery>=5.5.3",
+    "django>=5.2.6",
+    "django-celery-beat>=2.8.1",
+    "djangorestframework>=3.16.1",
+    "djangorestframework-simplejwt>=5.5.1",
+    "drf-spectacular>=0.28.0",
+    "drf-yasg>=1.21.10",
+    "pytest>=8.4.2",
+    "pytest-django>=4.11.1",
+    "redis>=6.4.0",
+]
