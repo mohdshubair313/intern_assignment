@@ -19,8 +19,8 @@ This project is a Django + Django REST Framework (DRF) based assignment that imp
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone [<your-repo-url>](https://github.com/mohdshubair313/intern_assignment.git)
+cd project name
 ```
 
 ### 2️⃣ Create virtual environment (using [uv](https://github.com/astral-sh/uv))
@@ -34,9 +34,6 @@ uv venv
 ```bash
 # Windows
 .venv\Scripts\activate
-
-# Linux / MacOS
-source .venv/bin/activate
 ```
 
 ### 4️⃣ Install dependencies
