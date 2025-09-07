@@ -1,7 +1,7 @@
 
 ---
 
-# 📌 Django Assignment – User Auth & Paragraph Analyzer
+# 📌 Django Assignment – User Auth and Tasks CRUD operations
 
 ## 📖 Overview
 
